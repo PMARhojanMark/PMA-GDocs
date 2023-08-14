@@ -7,7 +7,7 @@ https://prod.liveshare.vsengsaas.visualstudio.com/join?3331473C36FAD9264764EA48E
 
 XAMPP Eror Sql
 Cmd:
-    -netstat -aon | findstr :3306
+    netstat -aon | findstr :3306
     - 
      -taskkill /F /pid (*6308* This might be always changing)
      
