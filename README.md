@@ -25,7 +25,7 @@ Cmd:
 ![image](https://github.com/PMARhojanMark/PMA-GDocs/assets/136538341/a658d47c-d8c3-4487-82a5-959cf73d1e90)
 ![image](https://github.com/PMARhojanMark/PMA-GDocs/assets/136538341/05ce1a19-fc4a-49c3-b1b9-5899bf09e2cd)
 ![image](https://github.com/PMARhojanMark/PMA-GDocs/assets/136538341/e51d69d4-37df-428b-b60e-af844914c95e)
-![image](https://github.com/PMARhojanMark/PMA-GDocs/assets/136538341/1af16ddd-b8ea-4aad-92b2-d33ad85a6493)
+![image](https://github.com/PMARhojanMark/PMA-GDocs/assets/136538341/a1d5ef74-b676-4e79-a3ff-8d1f8894083d)
 ![image](https://github.com/PMARhojanMark/PMA-GDocs/assets/136538341/3246d1e5-bab0-460f-96aa-d599514473ac)
 ![image](https://github.com/PMARhojanMark/PMA-GDocs/assets/136538341/573ff6dc-8440-40e1-a848-082fb9da0090)
 ![image](https://github.com/PMARhojanMark/PMA-GDocs/assets/136538341/8910b16e-eb5f-4a6c-a296-22fe2dd0ef13)
