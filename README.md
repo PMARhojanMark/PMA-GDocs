@@ -30,3 +30,7 @@ Cmd:
 ![image](https://github.com/PMARhojanMark/PMA-GDocs/assets/136538341/573ff6dc-8440-40e1-a848-082fb9da0090)
 ![image](https://github.com/PMARhojanMark/PMA-GDocs/assets/136538341/8910b16e-eb5f-4a6c-a296-22fe2dd0ef13)
 ![image](https://github.com/PMARhojanMark/PMA-GDocs/assets/136538341/c48233fb-57d2-4e72-85e6-fb0ca1863b34)
+![image](https://github.com/PMARhojanMark/PMA-GDocs/assets/136538341/5531599f-bc5e-403a-9f7e-35a0aa96ba59)
+![image](https://github.com/PMARhojanMark/PMA-GDocs/assets/136538341/5a807659-2a28-46a4-add6-8e1e71e08810)
+![image](https://github.com/PMARhojanMark/PMA-GDocs/assets/136538341/26847c5e-226d-4d8b-aab0-92c2800a1d43)
+![image](https://github.com/PMARhojanMark/PMA-GDocs/assets/136538341/2d8eaec8-9004-4157-afd8-10cb74d113a9)
